@@ -1,6 +1,7 @@
-let name ='Francisca Obi'; 
-let height = "163.5cm";
-let country = "Nigeria";
+let name = 'NAME :Francisca Obi'; 
+let height = " HEIGHT:163.5cm";
+let country = "COUNTRY :Nigeria";
 
 
-alert(name +"\n"+ height + '\n' + country)
+
+alert(name +"\n"+ "\n"+height + '\n' + country)
